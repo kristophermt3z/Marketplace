@@ -1,4 +1,7 @@
-# Marketplace Application
+# Marketplace Application - Functional Documentation
+
+## Technical documentation
+- Is located inside the Frontend and Backend repos; each one has its own documentation.
 
 ## Admin Account
 - Email: admin@admin.com

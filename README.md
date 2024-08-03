@@ -3,15 +3,16 @@
 ## Technical documentation
 - Is located inside the Frontend and Backend repos; each one has its own documentation.
 
-## Admin Account
-- Email: admin@admin.com
-- Password: 123admin
-
 ## Links
 
 - **Production Link**: [Marketplace Production](https://marketplace-salvadormartinez.netlify.app/)
 - **Frontend Repository  (technical documentation is inside)**: [Marketplace Frontend](https://github.com/salvadormartin3z/Marketplace-Frontend)
 - **Backend Repository  (technical documentation is inside)**: [Marketplace Backend](https://github.com/salvadormartin3z/Marketplace-Backend)
+
+
+## Admin Account
+- Email: admin@admin.com
+- Password: 123admin
 
 ## Description
 

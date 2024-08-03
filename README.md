@@ -7,8 +7,8 @@
 ## Links
 
 - **Production Link**: [Marketplace Production](https://marketplace-salvadormartinez.netlify.app/)
-- **Frontend Repository**: [Marketplace Frontend](https://github.com/salvadormartin3z/Marketplace-Frontend)
-- **Backend Repository**: [Marketplace Backend](https://github.com/salvadormartin3z/Marketplace-Backend)
+- **Frontend Repository  (technical documentation is inside)**: [Marketplace Frontend](https://github.com/salvadormartin3z/Marketplace-Frontend)
+- **Backend Repository  (technical documentation is inside)**: [Marketplace Backend](https://github.com/salvadormartin3z/Marketplace-Backend)
 
 ## Description
 

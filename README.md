@@ -13,6 +13,9 @@
 ## Description
 
 The Marketplace Application is designed to connect sellers with potential buyers. It offers functionalities for sellers to register, list products, while buyers can browse and filter through available products. Additionally, administrators can oversee the marketplace and filter through sellers.
+![image](https://github.com/user-attachments/assets/f065e646-851a-4475-a9b7-9e6c38a67076)
+![image](https://github.com/user-attachments/assets/e91147be-9ae4-415d-95aa-0be02d78d835)
+
 
 ### Seller
 
@@ -29,17 +32,28 @@ The Marketplace Application is designed to connect sellers with potential buyers
 - **Product Management**: Sellers can view and manage all the products they have registered.
   - Each seller can only view products they have listed.
   - Access to this screen requires user authentication.
+ 
+-![image](https://github.com/user-attachments/assets/8c5111bd-d1fb-4bb1-ad84-5a0194eac3c2)
+![image](https://github.com/user-attachments/assets/ea9a1fe2-7e03-4958-b855-ae358f15a874)
+![image](https://github.com/user-attachments/assets/26c5e76d-7fc7-443c-a802-3d62ed2b0797)
+
+
 
 ### Buyer
 
 - **Product Search**: Buyers can search for products to add to their shopping cart.
   - Products can be filtered by name, SKU, and/or price range.
+  - ![image](https://github.com/user-attachments/assets/977e3656-ea41-4670-ab7e-74ed1e681e64)
+
 
 ### Administrator
 
 - **Product Oversight**: Administrators can view all products registered on the marketplace.
   - Products can be filtered by the seller.
   - Access to this screen requires user authentication.
+ 
+![image](https://github.com/user-attachments/assets/7f456bfd-faed-453d-b3a0-f70c212d8318)
+
 
 ## Route Protection
 

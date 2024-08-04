@@ -36,7 +36,8 @@ The Marketplace Application is designed to connect sellers with potential buyers
   - Each seller can only view products they have listed.
   - Access to this screen requires user authentication.
  
--![image](https://github.com/user-attachments/assets/8c5111bd-d1fb-4bb1-ad84-5a0194eac3c2)
+![image](https://github.com/user-attachments/assets/8c5111bd-d1fb-4bb1-ad84-5a0194eac3c2)
+
 ![image](https://github.com/user-attachments/assets/ea9a1fe2-7e03-4958-b855-ae358f15a874)
 
 ![image](https://github.com/user-attachments/assets/5d929def-cbf7-462c-bcdd-5b37cf2a5c5c)
@@ -45,7 +46,8 @@ The Marketplace Application is designed to connect sellers with potential buyers
 
 - **Product Search**: Buyers can search for products to add to their shopping cart.
   - Products can be filtered by name, SKU, and/or price range.
-  - ![image](https://github.com/user-attachments/assets/977e3656-ea41-4670-ab7e-74ed1e681e64)
+
+  ![image](https://github.com/user-attachments/assets/2c017070-e795-4a3e-b10e-fe71fc63848c)
 
 
 ### Administrator
@@ -53,9 +55,8 @@ The Marketplace Application is designed to connect sellers with potential buyers
 - **Product Oversight**: Administrators can view all products registered on the marketplace.
   - Products can be filtered by the seller.
   - Access to this screen requires user authentication.
- 
-![image](https://github.com/user-attachments/assets/7f456bfd-faed-453d-b3a0-f70c212d8318)
 
+![image](https://github.com/user-attachments/assets/e4aa0377-4372-474d-8f93-dbf6c1915f7c)
 
 ## Route Protection
 

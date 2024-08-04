@@ -18,8 +18,7 @@
 
 The Marketplace Application is designed to connect sellers with potential buyers. It offers functionalities for sellers to register, list products, while buyers can browse and filter through available products. Additionally, administrators can oversee the marketplace and filter through sellers.
 ![image](https://github.com/user-attachments/assets/f065e646-851a-4475-a9b7-9e6c38a67076)
-![image](https://github.com/user-attachments/assets/e91147be-9ae4-415d-95aa-0be02d78d835)
-
+![image](https://github.com/user-attachments/assets/2c017070-e795-4a3e-b10e-fe71fc63848c)
 
 ### Seller
 

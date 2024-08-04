@@ -38,9 +38,8 @@ The Marketplace Application is designed to connect sellers with potential buyers
  
 -![image](https://github.com/user-attachments/assets/8c5111bd-d1fb-4bb1-ad84-5a0194eac3c2)
 ![image](https://github.com/user-attachments/assets/ea9a1fe2-7e03-4958-b855-ae358f15a874)
-![image](https://github.com/user-attachments/assets/26c5e76d-7fc7-443c-a802-3d62ed2b0797)
 
-
+![image](https://github.com/user-attachments/assets/5d929def-cbf7-462c-bcdd-5b37cf2a5c5c)
 
 ### Buyer
 

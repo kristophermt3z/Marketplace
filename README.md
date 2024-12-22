@@ -5,8 +5,8 @@
 
 ## Links
 
-- **Frontend Repository  (technical documentation is inside)**: [Marketplace Frontend](https://github.com/salvadormartin3z/Marketplace-Frontend)
-- **Backend Repository  (technical documentation is inside)**: [Marketplace Backend](https://github.com/salvadormartin3z/Marketplace-Backend)
+- **Frontend Repository  (technical documentation is inside)**: [Marketplace Frontend](https://github.com/kristophermt3z/Marketplace-Frontend)
+- **Backend Repository  (technical documentation is inside)**: [Marketplace Backend](https://github.com/kristophermt3z/Marketplace-Backend)
 
 
 ## Admin Account
